@@ -17,3 +17,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Note:** The MIT License allows you to freely use, modify, and distribute the code as long as you include the original copyright notice and disclaimer. For more details, please refer to the [LICENSE](LICENSE) file in this repository.
 
 ---
+
+## Examples
+
+### Bubbles
+![HomeScreen](https://github.com/lucasbotingnon/psp-custom-bubbles/assets/35458766/0f8ad05d-3bd8-45e9-b940-885c16596e11)
+
+### PSOne Game
+![PSOne Game ](https://github.com/lucasbotingnon/psp-custom-bubbles/assets/35458766/bb22061e-cdaa-401b-bd74-942f814dde73)
+
+### PSOne Manual
+![PSOne Manual ](https://github.com/lucasbotingnon/psp-custom-bubbles/assets/35458766/1789e325-2bfa-468d-af0d-b1ce8f3ef3c9)
+
+### PSP Game
+![PSP Game](https://github.com/lucasbotingnon/psp-custom-bubbles/assets/35458766/89c46248-75e1-4a9b-be8c-75cd13e3674a)
+
+### PSP Manual
+![PSP Manual](https://github.com/lucasbotingnon/psp-custom-bubbles/assets/35458766/ab727fbe-9901-416d-8a54-4776869c1443)

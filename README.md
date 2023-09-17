@@ -2,6 +2,18 @@
 
 Welcome to the PSP and PS One Custom Bubbles and Icons Repository! This repository is dedicated to providing custom bubbles and icons for games on the PSP and PS One platforms for use in PSVita Adrenaline Homebrew. We encourage you to contribute, report issues, and help us expand this collection.
 
+# Table of Contents
+
+1. [PSP and PS One Custom Bubbles and Icons Repository](#psp-and-ps-one-custom-bubbles-and-icons-repository)
+2. [Issues and Contributing](#issues-and-contributing)
+3. [License](#license)
+4. [Examples](#examples)
+   - [Bubbles](#bubbles)
+   - [PSOne Game](#psone-game)
+   - [PSOne Manual](#psone-manual)
+   - [PSP Game](#psp-game)
+   - [PSP Manual](#psp-manual)
+
 ## Issues and Contributing
 
 If you encounter any bugs, have suggestions, or want to request specific custom bubbles/icons, please open an issue on our GitHub repository. We appreciate your feedback and will address any concerns promptly.
